@@ -1,16 +1,20 @@
-## Hi there 👋
+# My GitHub Profile
 
-<!--
-**olmosalexis/olmosalexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, Welcome to My Little World!
 
-Here are some ideas to get you started:
+## 💬 Ask me about:
+- Python
+- Finance
+- Anime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+- Cloud Computing
+- Artificial Intelligence
+- Rust
+
+## 👯 I’m looking to collaborate on:
+Open Source Projects
+
+## 🔭 I'm in the process of implementing more features for my projects
+
+## 📫 How to reach me: olmoslexis@gmail.com
