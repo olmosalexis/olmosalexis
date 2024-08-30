@@ -10,19 +10,6 @@
   </a>
 </div>
 
-<p align="">
-  <a href="https://github.com/olmosalexis">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=olmosalexis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=olmosalexis&layout=compact&langs_count=8&theme=merko"/>
-  </a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olmosalexis/olmosalexis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olmosalexis/olmosalexis/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/olmosalexis/olmosalexis/output/github-contribution-grid-snake.svg">
-</picture>
-
 # My GitHub Profile
 
 Hi 👋, Welcome to My Little World!
@@ -64,3 +51,16 @@ Open Source Projects
 
 </p>
 <br>
+
+<p align="">
+  <a href="https://github.com/olmosalexis">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=olmosalexis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=olmosalexis&layout=compact&langs_count=8&theme=merko"/>
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olmosalexis/olmosalexis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olmosalexis/olmosalexis/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/olmosalexis/olmosalexis/output/github-contribution-grid-snake.svg">
+</picture>
