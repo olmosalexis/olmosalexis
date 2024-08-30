@@ -45,3 +45,22 @@ Open Source Projects
 
 ## 📫 How to reach me: 
 - olmoslexis@gmail.com
+
+### Languages & Tools
+<hr />
+<p align="left"> 
+  
+  <img src="https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAF">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/scrum-C78765?style=for-the-badge&logo=scrum&logoColor=orange">
+  <img src="https://img.shields.io/badge/google-E34F26?style=for-the-badge&logo=google&logoColor=blue">
+
+</p>
+<br>
